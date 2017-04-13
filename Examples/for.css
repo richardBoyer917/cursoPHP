@@ -1,0 +1,12 @@
+#box {
+  color: green;
+  font-size: 14px;
+}
+h2{
+  color: blue;
+}
+
+.res {
+  display: inline-block;
+  text-align: center;
+}
